@@ -1,0 +1,2 @@
+Given a 2D binary matrix A(0-based index) of dimensions NxM. Find the minimum number of steps required to reach from (0,0) to (X, Y).
+Note: You can only move left, right, up and down, and only through cells that contain 1.
