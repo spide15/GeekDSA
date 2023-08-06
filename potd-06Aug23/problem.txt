@@ -1,0 +1,1 @@
+Given a string S. The task is to find all permutations (need not be different) of a given string.
